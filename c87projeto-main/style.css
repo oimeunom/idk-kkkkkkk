@@ -1,0 +1,23 @@
+.bodyBackground 
+{
+    background-image:url(prback.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(255, 255, 255); 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
+body{
+    background-image:url(prback.jpg);
+}
